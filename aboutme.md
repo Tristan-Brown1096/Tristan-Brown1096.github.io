@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Tristan Brown. I am currently a student with Lambda School learning data science. This is a change in direction from my previous experience and I am learning a lot. I hope to have a successful career as a data scienctist after completing the curriculum at Lambda School.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My History
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have previously recieved a bachelor's degree in political science from Auburn University. My goal was to go into the Foreign Service with the US Department of State, but after three years failing to achieve this goal, I thought it was time to look into something else.
