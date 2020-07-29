@@ -30,6 +30,7 @@ Similarly, I found that playing as the home team in a competitive environment wa
 |Most games resulted in less than 10 total goals!|
 
 
+
 # Final Notes
 
 Other than my initial intended analysis, I looked into the teams that won and lost the most games. Unsurprisingly, Brazil is the winningest team in international soccer, though the rest of the top 5 may be more surprising. Following Brazil; England, Germany, Argentina, and **_Sweden_** are 2nd-5th respectively in international wins. Italy and France are 9th and 10th in wins respectively, behind **_South Korea, Mexico, and Hungary_**! For reference, Brazil has won the World Cup 5 times, Germany and Italy have won it 4 times each, Argentina and France have won twice each, England has won it once, and the other four teams have made it to the final three times total with no wins!
