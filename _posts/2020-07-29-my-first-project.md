@@ -9,13 +9,13 @@ For my first project with Lambda School, I chose to look at a data set containin
 
 For this project, my main question was: "How does playing at home affect the outcome of an international soccer game?" The motivation for this was the observation that people frequently discuss the idea of a "home field advantage" when it comes to city-based sports teams competing on a national level. From there I wondered if the same advantage exists with teams that are nationally-based competing on an international level.
 
-#Design
+# Design
 
 For this project, I had to add a few columns of information to my dataset. In the end, I added 5 columns of data of varying usefulness. The important ones added were: home_win, friendly, and goal_difference. These would be used for analysis and subsetting the data set. The other columns added were more for the sake of curiosity: winning_team and losing_team. 
 
 After adding my new columns, I began to subset the data. In all I made four new data sets based on the original: home, neutral, competitive, and friendly. Because of observation overlap, this gave me two pairs of DataFrames to compare: home vs neutral, and competitive vs friendly. 
 
-#Results
+# Results
 
 For each pair of DataFrames, I looked at three things: Win Rate, Goals Scored, and Goal Difference. Goal Difference is partially derived from Goals Scored, but includes the number of goals allowed. Based on my points of analysis, I believe it can be said that even on a national team based level, home field advantage exists. I found that playing at home results in a higher win rate, more goals scored, and a much higher goal difference than playing as the designated home team of a neutral site game. 
 
@@ -25,7 +25,7 @@ Similarly, I found that playing as the home team in a competitive environment wa
 
 ![Most games resulted in less than 10 total goals!](/assets/img/Goals Scored vs Goals Allowed Competitive vs Friendly.png)
 
-#Final Notes
+# Final Notes
 
 Other than my initial intended analysis, I looked into the teams that won and lost the most games. Unsurprisingly, Brazil is the winningest team in international soccer, though the rest of the top 5 may be more surprising. Following Brazil; England, Germany, Argentina, and **_Sweden_** are 2nd-5th respectively in international wins. Italy and France are 9th and 10th in wins respectively, behind **_South Korea, Mexico, and Hungary_**! For reference, Brazil has won the World Cup 5 times, Germany and Italy have won it 4 times each, Argentina and France have won twice each, England has won it once, and the other four teams have made it to the final three times total with no wins!
 
