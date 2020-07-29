@@ -21,13 +21,13 @@ For each pair of DataFrames, I looked at three things: Win Rate, Goals Scored, a
 
 ![This was a surprisngly striking difference!](http://tristanbrownds.com/assets/img/Home%20vs%20Neutral%20Goal%20Difference.png)
 |:--:|
-| This was a surprisingly striking difference! |
+|This was a surprisingly striking difference!|
 
 Similarly, I found that playing as the home team in a competitive environment was much better for teams than playing as the home team in a friendly game. As with the previous comparison, I found that playing in a competitive environment resulted in a higher win rate, more goals scored, and a higher goal difference. While these numbers were much more similar, they were all highly statistically significant (my highest p-value was in the range of 10^-8).
 
 ![Most games resulted in less than 10 total goals!](http://tristanbrownds.com/assets/img/Goals%20Scored%20vs%20Goals%20Allowed%20Competitive%20vs%20Friendly.png)
 |:--:|
-| Most games resulted in less than 10 total goals! |
+|Most games resulted in less than 10 total goals!|
 
 # Final Notes
 
