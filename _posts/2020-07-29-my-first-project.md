@@ -19,7 +19,7 @@ After adding my new columns, I began to subset the data. In all I made four new 
 
 For each pair of DataFrames, I looked at three things: Win Rate, Goals Scored, and Goal Difference. Goal Difference is partially derived from Goals Scored, but includes the number of goals allowed. Based on my points of analysis, I believe it can be said that even on a national team based level, home field advantage exists. I found that playing at home results in a higher win rate, more goals scored, and a much higher goal difference than playing as the designated home team of a neutral site game. 
 
-|![This was a surprisngly striking difference!](http://tristanbrownds.com/assets/img/Home%20vs%20Neutral%20Goal%20Difference.png)|
+|![This was a surprisngly striking difference!](http://tristanbrownds.com/assets/img/Home%20vs%20Neutral%20Goal%20Differential.png)|
 |:--:|
 |This was a surprisingly striking difference!|
 
