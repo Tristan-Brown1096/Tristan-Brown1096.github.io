@@ -4,7 +4,7 @@ title: My first data science project
 subtitle: An analysis of the history of international soccer
 tags: [projects, sports, soccer]
 ---
-For my first project with Lambda School, I chose to look at a data set containing the results of almost every international soccer game ever played. The data set starts with the game the Fédération Internationale de Football Association(English, International Federation of Football Associations; abreviated FIFA) recognizes as the first international game ever played, between England and Scotland all the way back in 1872, and ends with the most recent game played by the US in February of 2020, right before COVID-19 shut down the world.
+For my first project with Lambda School, I chose to look at a data set containing the results of almost every international soccer game ever played. The data set starts with the game the Fédération Internationale de Football Association (English, International Federation of Football Associations; abreviated FIFA) recognizes as the first international game ever played, between England and Scotland all the way back in 1872, and ends with the most recent game played by the US in February of 2020, right before COVID-19 shut down the world.
 
 For this project, my main question was: "How does playing at home affect the outcome of an international soccer game?" The motivation for this was the observation that people frequently discuss the idea of a "home field advantage" when it comes to city-based sports teams competing on a national level. From there I wondered if the same advantage exists with teams that are nationally-based competing on an international level.
 
