@@ -10,7 +10,7 @@ For this project, my main question was: "How does playing at home affect the out
 
 # Design
 
-For this project, I had to add a few columns of information to my dataset. In the end, I added 5 columns of data of varying usefulness. The important ones added were: home_win, friendly, and goal_difference. These would be used for analysis and subsetting the data set. The other columns added were more for the sake of curiosity: winning_team and losing_team. 
+For this project, I had to add a few columns of information to my dataset. In the end, I engineered 5 columns of data that ended up being of varying usefulness. The important ones added were: home_win, friendly, and goal_difference. These would be used for analysis and subsetting the data set. The other columns added were more for the sake of curiosity: winning_team and losing_team. 
 
 After adding my new columns, I began to subset the data. In all I made four new data sets based on the original: home, neutral, competitive, and friendly. Because of observation overlap, this gave me two pairs of DataFrames to compare: home vs neutral, and competitive vs friendly. 
 
