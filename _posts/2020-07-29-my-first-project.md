@@ -38,4 +38,4 @@ Other than my initial intended analysis, I looked into the teams that won and lo
 
 On the other side, the losingest team in international soccer is Finland. There aren't really any super interesting findings on this end, other than seeing Sweden as the 8th losingest team and Hungary as the 9th losingest team. This makes Sweden the 5th winningest and 8th losingest team in the long history of international soccer, while Hungary is the 8th winningest and 9th losingest team.
 
-To view my projects [click here](http://tristanbrownds.com/myprojects/). To view the notebook for this project, [click here](https://github.com/Tristan-Brown1096/DS18_Unit_1_Build_Week_Project/blob/master/unit_1_build_week_project.ipynb)
+To view my projects [click here](http://tristanbrownds.com/myprojects/). To view the notebook for this project, [click here](https://github.com/Tristan-Brown1096/DS18_Unit_1_Build_Week_Project/blob/master/unit_1_build_week_project.ipynb)[Link to the data set used for the project](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017)
