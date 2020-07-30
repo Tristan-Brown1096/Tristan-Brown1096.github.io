@@ -16,7 +16,7 @@ After adding my new columns, I began to subset the data. In all I made four new 
 
 # Results
 
-For each pair of DataFrames, I looked at three things: Win Rate, Goals Scored, and Goal Difference. Goal Difference is partially derived from Goals Scored, but includes the number of goals allowed. Based on my points of analysis, I believe it can be said that even on a national team based level, home field advantage exists. I found that playing at home results in a higher win rate, more goals scored, and a much higher goal differential than playing as the designated home team of a neutral site game. The graph below shows the average goal differential for each, with bars accounting for the range of values within 95% likelihood
+For each pair of DataFrames, I looked at three things: Win Rate, Goals Scored, and Goal Differential. Goal Differential is partially derived from Goals Scored, but includes the number of goals allowed. Goal Differential is often used as a tie breaker in tournaments with group stages or in tournament qualifying stages where teams are put in groups. Based on my points of analysis, I believe it can be said that even for teams that are nationally-based playing at the level, home field advantage exists. I found that playing at home results in a higher win rate, more goals scored, and a much higher goal differential than playing as the designated home team of a neutral site game. The graph below shows the average goal differential for each, with bars accounting for the range of values within 95% likelihood
 
 |![This was a surprisngly striking difference!](http://tristanbrownds.com/assets/img/Home%20vs%20Neutral%20Goal%20Differential.png)|
 |:--:|
