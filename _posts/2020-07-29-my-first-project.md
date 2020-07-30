@@ -2,7 +2,6 @@
 layout: post
 title: My first data science project
 subtitle: An analysis of the history of international soccer
-share-img: /assets/img/path.jpg
 tags: [projects, sports, soccer]
 ---
 For my first project with Lambda School, I chose to look at a data set containing the results of almost every international soccer game ever played. The data set starts with the game FIFA recognizes as the first international game ever played, between England and Scotland all the way back in 1872, and ends with the most recent game played by the US in February of 2020, right before COVID-19 shut down the world.
