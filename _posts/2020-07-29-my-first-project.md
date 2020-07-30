@@ -4,13 +4,13 @@ title: My first data science project
 subtitle: An analysis of the history of international soccer
 tags: [projects, sports, soccer]
 ---
-For my first project with Lambda School, I chose to look at a data set containing the results of almost every international soccer game ever played. The data set starts with the game the Fédération Internationale de Football Association (English: International Federation of Football Associations; abreviated FIFA) recognizes as the first international game ever played, between England and Scotland all the way back in 1872, and ends with the most recent game played by the US in February of 2020, right before COVID-19 shut down the world.
+For my first project with Lambda School, I chose to look at a data set containing the results of almost every international soccer game ever played. The data set starts with the game the international governing body of soccer, commonly referred to as FIFA,  recognizes as the first international game ever played, between England and Scotland all the way back in 1872, and ends with the most recent game played by the US in February of 2020, right before COVID-19 shut down the world.
 
 For this project, my main question was: "How does playing at home affect the outcome of an international soccer game?" The motivation for this was the observation that people frequently discuss the idea of a "home field advantage" when it comes to city-based sports teams competing on a national level. From there I wondered if the same advantage exists with teams that are nationally-based competing on an international level.
 
 # Design
 
-For this project, I had to add a few columns of information to my dataset. In the end, I engineered 5 columns of data that ended up being of varying usefulness. The important ones added were: home_win, friendly, and goal_difference. These would be used for analysis and subsetting the data set. The other columns added were more for the sake of curiosity: winning_team and losing_team. 
+For this project, I had to add a few columns of information to my dataset. In the end, I engineered 5 columns of data that ended up being of varying usefulness. The columns added that ended up providing useful information for the project were: home_win, friendly, and goal_difference. These would be used for analysis and subsetting the data set. The other columns added that ended up being less useful for this particular project, but still interesting, were: winning_team and losing_team. 
 
 After adding my new columns, I began to subset the data. In all I made four new data sets based on the original: home, neutral, competitive, and friendly. Because of observation overlap, this gave me two pairs of DataFrames to compare: home vs neutral, and competitive vs friendly. 
 
@@ -22,7 +22,7 @@ For each pair of DataFrames, I looked at three things: Win Rate, Goals Scored, a
 |:--:|
 |This was a surprisingly striking difference!|
 
-Similarly, I found that playing as the home team in a competitive environment was much better for teams than playing as the home team in a friendly game. In soccer, particularly on the international level, friendly games are a common exhibition format. These games matter marginally for the FIFA rankings, but are widely considered to be unimportant. Conversely, competitive games are ones most people are more inclined to watch, such as World Cup games or the various continental tournaments. As with the previous comparison, I found that playing in a competitive environment resulted in a higher win rate, more goals scored, and a higher goal difference. While these numbers were much more similar, they were all highly statistically significant (my highest p-value was in the range of 10^-8).
+Similarly, I found that playing as the home team in a competitive environment was much better for teams than playing as the home team in a friendly game. In soccer, particularly on the international level, friendly games are a common exhibition format. These games matter marginally for the FIFA rankings, but are widely considered to be unimportant. Conversely, competitive games are ones most people are more inclined to watch, such as World Cup games or the various continental tournaments. As with the previous comparison, I found that playing in a competitive environment resulted in a higher win rate, more goals scored, and a higher goal difference. While these numbers were much more similar compared to the numbers of the previous comparison, they were all highly statistically significant (my highest p-value was in the range of 10^-8).
 
 |![Most games resulted in less than 10 total goals!](http://tristanbrownds.com/assets/img/Goals%20Scored%20vs%20Goals%20Allowed%20Competitive%20vs%20Friendly.png)|
 |:--:|
