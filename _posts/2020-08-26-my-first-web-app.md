@@ -5,20 +5,20 @@ subtitle: A model to predict the NCAA Men's Basketball Tournament
 tags: [projects, sports, basketball]
 ---
 
-#About the data
+# About the data
 
 My data consists of various specialized basketball statistics for every NCAA Division 1 men's basketball team for the years 2010-2019.I initially 
 got my data from Kaggle, but found the data provided to be lacking. Fortunately the Kaggle source had a website they cited, so in an effort to 
 expand my data, I went there. The layout was pretty simple for copying the data (they didn't allow scraping, and everything I needed was easily forked)
 and I worked in Excel to clean what I needed. After that step, I merged my new data with the existing data and began working on my project.
 
-#Design
+# Design
 
 For this project I ended up building 36 models. These were mostly permutations of random forest classifiers, the xgboost classifier, and the Scikit-Learn
 gradient boosting classifier, as well as a logistic regression model that was required for my class. I also tried five different splits of my data. In 
 each split, I trained the models on the data from 2010-2017, validated on the data from 2018, and tested on the data from 2019. 
 
-#Results
+# Results
 
 The first of these was just looking at all of the data, without the seed of each team. The reason for dropping the seed in this case was my choice  of target 
 variable and the data I was dealing with. My target variable for this project was how well a team did in the NCAA tournament, and since the vast majority of 
@@ -36,7 +36,7 @@ that did not reduce the accuracy at all, and resulted in a second model with 61.
 It also was accurate +- one round on 65 of the 68 teams. My final split looked only at the teams that made the tournament and dropped the seed and number of wins. 
 This model was still 60.29% accurate, which was surprising to me.
 
-#Web App
+# Web App
 
 After building all of my models. I started working on a web application to predict how well a team would do in the NCAA tournament. I chose to use my model that was 
 61.76% accurate and began working. It was initially more challenging than I thought it would be, but I eventually got all of the pieces together and was able to test 
