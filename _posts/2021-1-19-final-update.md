@@ -5,7 +5,7 @@ subtitle: The final two months of Lambda School and the future
 tags: [projects, data science, group work, computer science, jobs]
 ---
 
-#Computer Science
+# Computer Science
 
 The fifth month of the Lambda School program is a unit on Computer Science. This was probably the most difficult part of the program for me,
 because the daily assignments put so much emphasis on the speed the code could run, and I still am not the most efficient writter of code. It
@@ -15,7 +15,7 @@ fifth month was honestly a haze of very similar days with a lecture, then a codi
 tedious, and I am glad that it was put toward the end of the program, because that was honestly the most boring month of the program, even if the
 content was actually very imporatant.
 
-#Labs
+# Labs
 
 The final month of the program, I was working on a project with three other data scientist and three web developers. We were assigned a project
 with the non-profit organization Human Rights First (HRF). We started a greenfield project to provide HRF with a system to help asylum lawyers find cases
@@ -25,9 +25,9 @@ the immigration judge from the documents, and find a way to pull the specific co
 information about the arguments made in the case, finding a way to pull the country of origin from the documents, and finding a way to pull the
 acutal outcome of the case from the documents. Unfortunately, we were unable to meet the stretch goals, and barely met the goals for the minimal
 viable product (MVP). Fortunately, the stakeholders loved what we had done, and are looking forward to what the future Lambda School Labs groups
-can do to improve the groundwork we helped to lay.
+can do to improve the groundwork we helped to lay. The code for this project can be accessed [here](https://github.com/Tristan-Brown1096/human-rights-first-asylum-ds-b)
 
-#Reflection on Lambda and My Future
+# Reflection on Lambda and My Future
 
 Now that I have graduated from Lambda School, it's time for me to start my job search. This may be the most difficult part of my career as a data
 scientist so far, but I am hopeful that it won't take too long for me to truly begin my career. It's still crazy to me that six months ago, I had
