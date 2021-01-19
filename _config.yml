@@ -15,6 +15,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Lambda School: "https://lambdaschool.com"
+    - Beautiful Jekyll : "https://github.com/daattali/beautiful-jekyll"
     - Learn markdown: "https://www.markdowntutorial.com/"
   My Projects: "myprojects"
 
